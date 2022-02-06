@@ -1,4 +1,4 @@
-**# BestCloudAPI**
+# BestCloudAPI
 
 - This app is implemented using node.js
 - The Home page has firstname and lastname
@@ -8,7 +8,7 @@
 
 
 
-**<u>Building and Running a containerized API using Dockerfile</u>**
+## Building and Running a containerized API using Dockerfile
 
 
 
