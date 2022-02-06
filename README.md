@@ -16,7 +16,7 @@
 
 
 
-**docker build -t app-docker .**     => app-docker is the name of the docker image.
+**docker build -t app-docker .**      (app-docker is the name of the docker image)
 
 
 
@@ -28,6 +28,6 @@
 
 
 
-- At the beggining, I had a internal port 5500. Here, I mapped this internal port to 8000.
+- At the beggining, I had an internal port 5500. Here, I mapped this internal port to 8000.
 - After this command, the docker container should be up and running on localhost port 8000.
 
