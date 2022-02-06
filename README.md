@@ -4,7 +4,7 @@
 - The Home page has firstname and lastname
 - The temperature endpoint renders a temperature of any city as JSON format with a GET method receiving a city_name as parameter.
 
-***\*temperature?city=city_name\****
+**temperature?city=city_name**
 
 
 
