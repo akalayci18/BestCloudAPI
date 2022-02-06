@@ -24,10 +24,16 @@
 
 
 
-**docker run -it -p 8000:5500 app-docker**
+**docker run -it -p 8000:3000 app-docker**
 
 
 
-- At the beggining, I had an internal port 5500. Here, I mapped this internal port to 8000.
+- At the beggining, I had an internal port 3000. Here, I mapped this internal port to 8000.
 - After this command, the docker container should be up and running on localhost port 8000.
 
+
+
+## Using the Heroku CLI, the API is Live on:
+
+- https://mysterious-tundra-27661.herokuapp.com
+- https://mysterious-tundra-27661.herokuapp.com/temperature?city=istanbul

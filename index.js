@@ -1,10 +1,10 @@
 const app = require('express')();
 const request = require('request-promise');
-const PORT = 5500;
 
-app.listen(PORT, () => {
-    console.log(`Server started on http://localhost:${PORT}`);
-})
+
+app.listen(process.env.PORT || 3000, function(){
+    console.log("Server started")
+});
 
 app.get('/', (req, res) => {
     res.status(200).send ({
