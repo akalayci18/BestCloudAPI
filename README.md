@@ -16,7 +16,7 @@ Build docker container/image using the following command
 
 
 
-***\*docker build -t app-docker .\****    => app-docker is the name of the docker image.
+**docker build -t app-docker .**     => app-docker is the name of the docker image.
 
 
 
@@ -24,7 +24,7 @@ From this docker image, start to spin out the container using the command below
 
 
 
-***\*docker run -it -p 8000:5500 app-docker\****
+**docker run -it -p 8000:5500 app-docker**
 
 
 
