@@ -20,7 +20,7 @@
 
 
 
-- From this docker image, start to spin out the container using the command below
+- From this docker image, start spinning out the container using the command below
 
 
 
