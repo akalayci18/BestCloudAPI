@@ -12,7 +12,7 @@
 
 
 
-Build docker container/image using the following command
+- Build docker container/image using the following command
 
 
 
@@ -20,7 +20,7 @@ Build docker container/image using the following command
 
 
 
-From this docker image, start to spin out the container using the command below
+- From this docker image, start to spin out the container using the command below
 
 
 
